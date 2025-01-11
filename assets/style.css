@@ -1,0 +1,19 @@
+/* .main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+} */
+/* .footer {
+  margin-top: auto;
+} */
+.gradient {
+  background: rgb(253, 116, 45);
+  background: linear-gradient(
+    90deg,
+    rgba(253, 116, 45, 0.1503195028011205) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+.img {
+  max-width: 100%;
+}
